@@ -16,7 +16,7 @@ The second dataset is by Healthdata.gov that provides a view into state and coun
 [New York Times: COVID 19 Data](https://github.com/nytimes/covid-19-data)
 
 ## Analysis and Visualizations
-The intended analysis and visualizations for this  project: 
+The intended analysis and visualizations for this  project includes looking at any possible relationships between policy making and covid measures, with visiliazations including spatial maps comparing state in the United States, popular policy decisions, and covid trends. 
 
 ## Insight Goals
-A concluding paragraph of what insights you expect to gain from your research
+The insights I expect to gain from the project are to better understand how pandemic response has affected different cities. 
