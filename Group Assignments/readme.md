@@ -16,7 +16,7 @@ The second dataset is by Healthdata.gov that provides a view into state and coun
 [New York Times: COVID 19 Data](https://github.com/nytimes/covid-19-data)
 
 ## Analysis and Visualizations
-A scope that explains the intended analysis and resulting visualizations for your project: 
+The intended analysis and visualizations for this  project: 
 
 ## Insight Goals
 A concluding paragraph of what insights you expect to gain from your research
