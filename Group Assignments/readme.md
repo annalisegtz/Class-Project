@@ -11,8 +11,9 @@ The first dataset being used is a dataset created by the New York Times tracking
 The second dataset is by Healthdata.gov that provides a view into state and county policy orders made in response to the pandemic. 
 
 ## Links
-Include datasource with links: 
+[HealthData.gov: COVID 19 State and County Policy Orders](https://healthdata.gov/dataset/covid-19-state-and-county-policy-orders)
 
+[New York Times: COVID 19 Data](https://github.com/nytimes/covid-19-data)
 
 ## Analysis and Visualizations
 A scope that explains the intended analysis and resulting visualizations for your project: 
