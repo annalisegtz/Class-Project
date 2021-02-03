@@ -1,4 +1,4 @@
-# Social Disparities in the Impact of COVID 
+# 2020 COVID Impact Disparities 
 
 [Project Proposal](https://github.com/annalisegtz/Class-Project/blob/main/Group%20Assignments/readme.md) 
 
