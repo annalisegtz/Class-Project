@@ -18,7 +18,7 @@ definitely will be using the cases and deaths dataset along with census data.
 
 - State Policy Response https://healthdata.gov/dataset/covid-19-state-and-county-policy-orders
 
-- COVID Testing Sites https://covid-19-giscorps.hub.arcgis.com/datasets/giscorps-covid-19-testing-locations-in-the-united-states-symbolized-by-status?geometry=-152.324%2C-87.862%2C137.363%2C88.858&showData=true
+- COVID Testing Sites https://catalog.data.gov/dataset/covid-19-testing-locations
 
 # Concerns
 
